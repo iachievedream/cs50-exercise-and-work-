@@ -1,6 +1,7 @@
 # cs50-exercise-and-work-
 
-wed : http://cs50.tv/2017/fall/
+Website : http://cs50.tv/2017/fall/
+
 
 lecture 1
 
@@ -42,3 +43,4 @@ int main(void){
 
     return 0;
 }
+
