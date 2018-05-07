@@ -15,7 +15,7 @@ https://manual.cs50.net/ide/offline
 
 How To Install CS50 IDE Offline On Windows, Linux And Mac？
 
-<h6>NOTE: If these system requirements are not met, skip to Docker Toolbox.<h6>
+NOTE: If these system requirements are not met, skip to Docker Toolbox.
 <p>
 <ol>
 <li>Install Docker for Windows.</li>
