@@ -4,16 +4,18 @@
 http://cs50.tv/2017/fall/
 
 
-CS50 中文導讀
+CS50 Chinese Reading(中文導讀)
 https://www.youtube.com/playlist?list=PLeWlPscCzV-emSo2phZqStPZ0UDKzKu8s
 
 
 CS50 IDE Offline
 https://manual.cs50.net/ide/offline
 
-Windows
+<h4>Windows:</h4>
 
-NOTE: If these system requirements are not met, skip to Docker Toolbox.
+How To Install CS50 IDE Offline On Windows, Linux And Mac？
+
+<h6>NOTE: If these system requirements are not met, skip to Docker Toolbox.<h6>
 <ol>
 <li>Install Docker for Windows.</li>
 <li>Open up a command prompt window and run the following command to create a new CS50 IDE instance:</li>
