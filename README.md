@@ -16,10 +16,11 @@ https://manual.cs50.net/ide/offline
 How To Install CS50 IDE Offline On Windows, Linux And Mac？
 
 <h6>NOTE: If these system requirements are not met, skip to Docker Toolbox.<h6>
+<p>
 <ol>
 <li>Install Docker for Windows.</li>
 <li>Open up a command prompt window and run the following command to create a new CS50 IDE instance:</li>
-
+<p>
 <code>docker run --privileged -e "IP=127.0.0.1" -e "PORT=8080" --name ide50 -d -p 5050:5050 -p 8080-8082:8080-8082 cs50/ide</code>
 
 <li>Visit http://localhost:5050/ in your favorite browser to access CS50 IDE.</li>
