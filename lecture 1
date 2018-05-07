@@ -22,25 +22,25 @@ make int //編譯執行檔>>出現int檔案
 ./int //執行執行檔int
 輸入interger:
 
+***
 
+one exercise complete
 
-
-
-
-not complete
-
+code：hello.c
 #include <stdio.h>
 #include <cs50.h>
 
 void hellotime(int times,string str){
-    for (int i=1:i=<times;i++){
-        printf("%s\n",str)
+    for (int i=1;i<=times;i++){
+        printf("%s\n",str);
     }
 }
 
 int main(void){
-    hellotime(7,"Hello");
+    hellotime(3,"Hello");
 
     return 0;
 }
 
+
+terminal：
