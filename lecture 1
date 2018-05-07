@@ -1,6 +1,6 @@
 # cs50-exercise-and-work-
 
-http://cs50.tv/2017/fall/
+wed : http://cs50.tv/2017/fall/
 
 lecture 1
 
@@ -14,6 +14,7 @@ int main(void)
    int i = get_int("interger:");
    printf("hello,%i\n", i);
 }
+
 
 terminal：
 make int //編譯執行檔>>出現int檔案
