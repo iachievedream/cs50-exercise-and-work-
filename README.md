@@ -1,21 +1,24 @@
 # cs50-exercise-and-work-
 
+
 http://cs50.tv/2017/fall/
 
-lecture 1
+
+CS50 中文導讀
+https://www.youtube.com/playlist?list=PLeWlPscCzV-emSo2phZqStPZ0UDKzKu8s
 
 
-code：int.c
-#include <cs50.h>
-#include <stdio.h>
+CS50 IDE Offline
+https://manual.cs50.net/ide/offline
 
-int main(void)
-{
-   int i = get_int("interger:");
-   printf("hello,%i\n", i);
-}
+Windows
 
-terminal：
-make int //編譯執行檔>>出現int檔案
-./int //執行執行檔int
-輸入interger:
+NOTE: If these system requirements are not met, skip to Docker Toolbox.
+<ol>
+<li>Install Docker for Windows.</li>
+<li>Open up a command prompt window and run the following command to create a new CS50 IDE instance:</li>
+
+<code>docker run --privileged -e "IP=127.0.0.1" -e "PORT=8080" --name ide50 -d -p 5050:5050 -p 8080-8082:8080-8082 cs50/ide</code>
+
+<li>Visit http://localhost:5050/ in your favorite browser to access CS50 IDE.</li>
+<ol>
