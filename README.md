@@ -27,4 +27,4 @@ NOTE: If these system requirements are not met, skip to Docker Toolbox.
 <ol>
 
 
-cs50-exercise-and-work-/lecture 1
+[cs50-exercise-and-work-/lecture 1」（https://github.com/iachievedream/cs50-exercise-and-work-/blob/master/lecture%201#L5）
