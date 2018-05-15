@@ -25,3 +25,6 @@ NOTE: If these system requirements are not met, skip to Docker Toolbox.
 
 <li>Visit http://localhost:5050/ in your favorite browser to access CS50 IDE.</li>
 <ol>
+
+
+cs50-exercise-and-work-/lecture 1
