@@ -3,7 +3,7 @@ cs50-exercise-and-work-
 
 Website : http://cs50.tv/2017/fall/
 
-code：int.c
+int.c
 ~~~
 #include <cs50.h>
 #include <stdio.h>
@@ -17,9 +17,9 @@ int main(void)
 
 terminal：
 
-make int //編譯執行檔>>出現int檔案
+<code>make int</code> //編譯執行檔>>出現int檔案
 
-./int //執行執行檔int
+<code>./int</code> //執行執行檔int
 
 輸入interger:
 
@@ -27,7 +27,7 @@ make int //編譯執行檔>>出現int檔案
 
 one exercise complete
 
-code：hello.c
+hello.c
 ~~~
 #include <stdio.h>
 #include <cs50.h>
